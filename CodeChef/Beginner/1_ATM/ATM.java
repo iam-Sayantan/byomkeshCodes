@@ -38,7 +38,7 @@ Output:
 
 import java.util.*;
 
-public class ATM_1 {
+public class ATM {
 
 	private static final double WITHDRAWAL_FEE = 0.5;
 	
